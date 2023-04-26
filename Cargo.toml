@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "my_get_int",
+  "run_get_int",
+]
